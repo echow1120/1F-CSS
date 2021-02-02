@@ -1,16 +1,19 @@
+
+body {
+  background-color: #D3D3D3;
+  margin-top: 25px;
+  margin-left: 20px;
+}
+
 .fontcolor {
       color:red;
     }
 
 header {
   font-family: "Rockwell Extra Bold", "Rockwell Bold", monospace;
-
-    }
-
-body {
-  background-color: #D3D3D3;
-  margin-top: 25px;
-  margin-left: 20px;
+  color:#2a6099;
+  font-size:40;
+  -webkit-text-stroke; 1.5px black;
 }
 
 h3 {
